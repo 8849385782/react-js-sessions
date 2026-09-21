@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-js-sessions/static/css/main.33da6660.css",
+    "main.js": "/react-js-sessions/static/js/main.23c3eeb6.js",
+    "index.html": "/react-js-sessions/index.html",
+    "main.33da6660.css.map": "/react-js-sessions/static/css/main.33da6660.css.map",
+    "main.23c3eeb6.js.map": "/react-js-sessions/static/js/main.23c3eeb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33da6660.css",
+    "static/js/main.23c3eeb6.js"
+  ]
+}
